@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Dharshan! 👋
 
-<!--
-**DharshanSundarraj/DharshanSundarraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Developer | IT Graduate
 
-Here are some ideas to get you started:
+I am an Information Technology graduate with a strong analytical background, currently transitioning into full-stack software development. I specialize in bridging the gap between clean frontend UI/UX and robust Java backend systems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), Figma
+* **Backend:** Core Java, JDBC
+* **Databases:** MySQL
+* **Tools:** Git, GitHub, VS Code, Arduino IDE
+
+## 🚀 Current Focus
+* Building a full-stack Student Management System using Java and MySQL.
+* Deepening my understanding of JavaScript data structures and API integrations.
+
+## 📫 Let's Connect
+* **LinkedIn:** [https://www.linkedin.com/in/dharshansundarraj/]
+* **Email:** dharshan.sundarraj@gmail.com
