@@ -4,7 +4,7 @@
 
 A high-performance, single-page developer portfolio designed to showcase enterprise-grade backend architectures and hardware-integrated software solutions. 
 
-**🔗 [View Live Portfolio Here](https://dharshansundarraj.github.io/portfolio)**
+**🔗 [View Live Portfolio Here](https://dharshansundarraj.github.io/Portfolio/)**
 
 ## ⚡ Technical Architecture
 
@@ -32,4 +32,4 @@ To run this portfolio locally on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/DharshanSundarraj/portfolio.git](https://github.com/DharshanSundarraj/portfolio.git)
+   git clone [https://dharshansundarraj.github.io/Portfolio/](https://dharshansundarraj.github.io/Portfolio/)
